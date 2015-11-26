@@ -1,0 +1,3 @@
+[submodule "account-management-deploy-system"]
+    path = account-management-deploy-system
+    url = https://github.com/hero78119/account-management-deploy-system.git
